@@ -1,0 +1,11 @@
+
+--- New Order ---
+0 x Veggie Burger - $0.00
+2 x Bacon Burger - $23.98
+Total Bill: $0.00
+
+--- New Order ---
+0 x Veggie Burger - $0.00
+2 x Bacon Burger - $23.98
+3 x Veggie Burger - $32.97
+Total Bill: $0.00
